@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Jonathan Han</string>
+    <string name="profile_pic">Profile Pciture</string>
+    <string name="my_desc">Food I like : Chicken, everything except seafood cause im allergic lul
+    \n
+    \n Hobbies :
+        \nComputer Games, Esports, waste time. hehe
+        \n
+        \n Education :
+        \n SK Luyang
+        \n SM La Salle
+    \n TARUC (current)
+    \n Software Engineering Student Degree Year 2 Sem 2
+    \n This is for mobile app practical #2
+    \n I am learning how to design and make a mobile app for android
+    \n
+    \n Working Experience :
+    \n Work part time as a waiter in a restaurant in Sabah, "Upperstar"
+    \n part time as a Barista in Starbucks
+    \n
+        \n Dream :
+    \n Want to build a community of gamers in my stream, Im streaming on twitch platform at the moment.
+    \n come by and show your support at twitch.tv/aberdeenshire
+    \n we can hang out, chill and have fun together!</string>
+</resources>
